@@ -1,20 +1,16 @@
 ---
 layout: page
-title: About
+title: Về tôi
 permalink: /about/
 ---
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Bạn có thể tìm source code của blog này trên GitHub:
+[my-blog](https://github.com/trongphu567/my-blog)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
+Bạn có thể tìm source code của Jekyll trên GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
-You can find me on Facebook:
-[trongphu21](https://www.facebook.com/trongphu21)
-
-[jekyll-organization]: https://github.com/jekyll
+Bạn có thể tìm thấy mình qua Facebook:
+[trongphu3121](https://www.facebook.com/trongphu3121)
