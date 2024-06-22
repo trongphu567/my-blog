@@ -32,9 +32,6 @@ linkedin_username: trongphutran
 # Author is the default for posts, the Atom feed, and is used in the footer.
 author: Phu Tran
 
-#title-logo is a new field that when used displays a logo in the title bar
-title-logo: /images/title-logo.png
-
 # Build settings
 # Remove minima theme as it is now a regular theme.
 # theme: minima
