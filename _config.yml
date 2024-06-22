@@ -27,6 +27,10 @@ baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://trongphu567.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trongphu567
 github_username: trongphu567
+linkedin_username: trongphutran
+
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: Phu Tran
 
 # Build settings
 # Remove minima theme as it is now a regular theme.
