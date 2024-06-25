@@ -2,7 +2,7 @@
 layout: post
 title: "My second tech post"
 date: 2024-06-23 12:25:59 +0700
-category: tech
+categories: tech
 image: "/blog-tech/assets/images/nvidia.jpg"
 ---
 

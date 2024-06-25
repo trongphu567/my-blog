@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<article class="post">
 
+<article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  <div class="post-content">{{ content }}</div>
 
+  {%- assign feedType = page.feed-type -%} {%- if feedType =="sports" or
+  feedType == "tech" -%} {%- include feed.html -%} {%- endif -%}
 </article>
