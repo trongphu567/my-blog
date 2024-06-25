@@ -2,7 +2,7 @@
 layout: post
 title: "My second sports post"
 date: 2024-06-23 12:25:59 +0700
-categories: sports
+category: sports
 image: "/blog-sports/assets/images/arda-guler.jpg"
 ---
 
