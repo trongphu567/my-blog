@@ -254,3 +254,11 @@
   object-fit: cover;
   margin: 0 0 $spacing-unit 0;
 }
+
+.blog-roll-image {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  margin: 0 20px 0 0;
+  float: left;
+}
