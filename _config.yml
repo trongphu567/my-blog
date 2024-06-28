@@ -21,8 +21,7 @@
 title: Phu Tran Blog
 email: trongphu543210@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Một trang để mình chia sẻ những điều mình biết về thế giới này. 
-  Một IT bình thường với niềm đam mê viết blog.
+  Một dân IT bình thường với niềm đam mê viết blog.
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://trongphu567.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trongphu567
